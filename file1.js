@@ -7,3 +7,5 @@ function baar() {
 }
 
 function baaz(){}
+
+function baaz1(){}
