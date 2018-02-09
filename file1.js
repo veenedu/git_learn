@@ -6,6 +6,6 @@ function baar() {
     // body...
 }
 
-function moo(){
-    
-}
+function baaz(){}
+
+function baaz1(){}
