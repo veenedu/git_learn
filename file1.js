@@ -5,3 +5,5 @@ function foo(){
 function baar() {
     // body...
 }
+
+function baaz(){}
